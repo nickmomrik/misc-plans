@@ -1,6 +1,6 @@
 # Miscellaneous plans
 
-This is a place for me to share various plans.
+This is a place for me to share various plans/models.
 
 ## Dust Separator
 
