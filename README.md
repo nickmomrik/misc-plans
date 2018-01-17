@@ -8,4 +8,4 @@ Visit [DIY Cyclone Dust Separator](https://nick.blog/2017/10/16/diy-cyclone-dust
 
 ## Workbench
 
-Link coming soon...
+Visit [Custom Workbench](https://nick.blog/2018/01/17/custom-workbench/) for details.
