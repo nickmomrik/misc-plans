@@ -1,6 +1,6 @@
 # Miscellaneous plans
 
-This is a place for me to share various build plans/models. For more details on the plans, see the associated blogs posts on [nick.blog](https://nick.blog/).
+This is a place for me to share various build plans/models. For more details on each, see the associated blogs posts on [nick.blog](https://nick.blog/).
 
 [DIY Cyclone Dust Separator](https://nick.blog/2017/10/16/diy-cyclone-dust-separator/)
 
